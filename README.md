@@ -24,4 +24,4 @@ This repository contains a custom implementation of an ARM968E-S processor using
 
 For detailed information and instructions, please refer to the [Project Report](ARM968E-S_Implementation.pdf).
 
-
+![Alt text](ARM_Pic.png)
